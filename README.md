@@ -116,7 +116,7 @@ This project is licensed under the <b>MIT License</b>.
 <h2>👨‍💻 Author</h2>
 <p>
 <b>Your Name</b><br>
-GitHub: <a href="https://github.com/ZenCoder512">ZenCoder512</a> https://github.com/ZenCoder512/Vehicle-Info.git
+GitHub: <a href="https://github.com/ZenCoder512">ZenCoder512</a>
 </p>
 
 <hr>
