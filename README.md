@@ -41,7 +41,7 @@ Ye project beginners aur Python GUI learners ke liye best hai.
 </p>
 
 <pre>
-![Vehicle Info Tool Screenshot]<img src="https://github.com/ZenCoder512/Vehicle-Info/blob/master/screenshot.png" hight="50" width="100">
+![Vehicle Info Tool Screenshot]<img src="https://github.com/ZenCoder512/Vehicle-Info/blob/master/screenshot.png" hight="500" width="700">
 </pre>
 
 ---
