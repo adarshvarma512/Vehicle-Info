@@ -36,12 +36,8 @@ Ye project beginners aur Python GUI learners ke liye best hai.
 ---
 
 <h2>📸 Screenshot</h2>
-<p>
-(Add your GUI screenshot here)
-</p>
-
 <pre>
-![Vehicle Info Tool Screenshot]<img src="https://github.com/ZenCoder512/Vehicle-Info/blob/master/screenshot.png" hight="500" width="700">
+<img src="https://github.com/ZenCoder512/Vehicle-Info/blob/master/screenshot.png" hight="500" width="700">
 </pre>
 
 ---
