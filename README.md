@@ -41,7 +41,7 @@ Ye project beginners aur Python GUI learners ke liye best hai.
 </p>
 
 <pre>
-![Vehicle Info Tool Screenshot](screenshot.png)
+![Vehicle Info Tool Screenshot]<img src="screenshop.png" hight="50" width="100">
 </pre>
 
 ---
