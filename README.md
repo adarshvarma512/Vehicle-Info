@@ -2,7 +2,6 @@
 <h1 align="center">
 Vehicle Info Tool (Python GUI)</h1>
   <b align="center">A simple Python GUI-based tool to fetch and display vehicle information.</b>
-</p>
 
 <hr>
 
