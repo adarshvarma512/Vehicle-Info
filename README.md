@@ -50,8 +50,7 @@ Ye project beginners aur Python GUI learners ke liye best hai.
 
 <h3>1️⃣ Clone the Repository</h3>
 <pre>
-git clone https://github.com/cloudCoder512/vehicle-info.git
-cd vehicle-info-tool
+https://github.com/ZenCoder512/Vehicle-Info.git
 </pre>
 
 <h3>2️⃣ Install Requirements</h3>
@@ -61,7 +60,7 @@ pip install -r requirements.txt
 
 <h3>3️⃣ Run the Application</h3>
 <pre>
-python vehicle-info.py
+python Row-Data.py
 </pre>
 
 ---
@@ -117,7 +116,7 @@ This project is licensed under the <b>MIT License</b>.
 <h2>👨‍💻 Author</h2>
 <p>
 <b>Your Name</b><br>
-GitHub: <a href="https://github.com/cloudCoder512">cloudCoder512</a>
+GitHub: <a href="https://github.com/ZenCoder512">ZenCoder512</a> https://github.com/ZenCoder512/Vehicle-Info.git
 </p>
 
 <hr>
