@@ -47,7 +47,7 @@ Ye project beginners aur Python GUI learners ke liye best hai.
 
 <h3>1️⃣ Clone the Repository</h3>
 <pre>
-https://github.com/ZenCoder512/Vehicle-Info.git
+git clone https://github.com/logicforge512/Vehicle-Info.git
 </pre>
 
 <h3>2️⃣ Install Requirements</h3>
@@ -113,7 +113,7 @@ This project is licensed under the <b>MIT License</b>.
 <h2>👨‍💻 Author</h2>
 <p>
 <b>Your Name</b><br>
-GitHub: <a href="https://github.com/ZenCoder512">ZenCoder512</a>
+GitHub: <a href="https://github.com/logicforge512">ZenCoder512</a>
 </p>
 
 <hr>
