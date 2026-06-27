@@ -38,7 +38,7 @@ Ye project beginners aur Python GUI learners ke liye best hai.
 
 <h2>📸 Screenshot</h2>
 <pre>
-<img src="https://github.com/adarshvarma512/Vehicle-Info/blob/master/screenshot.png" hight="500" width="500">
+<img src="https://github.com/adarshvarma512/Vehicle-Info/blob/master/screenshot.png" hight="500" width="900">
 </pre>
 
 ---
